@@ -4,7 +4,7 @@
 # To run with the built-in shiny-examples:
 #   docker run --rm -p 3838:3838 --name ss ss-shiny-devel
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 MAINTAINER Winston Chang "winston@rstudio.com"
 
